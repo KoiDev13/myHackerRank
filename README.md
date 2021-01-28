@@ -10,6 +10,18 @@ This repository consists of my personal solutions, experience from HackerRank tr
 [![GitHub last commit](https://img.shields.io/github/last-commit/aKn8194/myHackerRank)](https://github.com/aKn8194/myHackerRank/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/aKn8194/myHackerRank)](https://github.com/aKn8194/myHackerRank/archive/master.zip)
 
-## Personal profile 
+## Personal HackerRank Profile
 [View Hacker Rank profile](https://www.hackerrank.com/knguyanh8194)
 
+## HackerRank Badges
+![Python](/Badges/python_5_star.png)
+![SQL](/Badges/sql_5_star.png)
+
+## HackerRank Certificates
+
+
+<p align="center">
+    <a href="https://www.hackerrank.com/nathanabela7">
+        <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
+    </a>
+</p>
