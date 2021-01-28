@@ -11,7 +11,7 @@ This repository consists of my personal solutions, experience from HackerRank tr
 [![GitHub repo size](https://img.shields.io/github/repo-size/aKn8194/myHackerRank)](https://github.com/aKn8194/myHackerRank/archive/master.zip)
 
 ## Personal HackerRank Profile
-[View Hacker Rank profile](https://www.hackerrank.com/knguyanh8194)
+[View Hacker Rank profile](https://www.hackerrank.com/knguyenanh8194)
 
 ## HackerRank Badges
 ![Python](/Badges/python_5_star.png)
