@@ -7,9 +7,9 @@
 # HackerRank | Documentation
 This repository consists of my personal solutions, experience from HackerRank training. I am welcoming to share the content of solutions with purpose of learning and training. Kindly using it with your customization since you're not a Copy Cat, right :D
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/aKn8194/HACKERRANK-DOCUMENTATION)](https://github.com/nathan-abela/HackerRank-Solutions/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/aKn8194/HACKERRANK-DOCUMENTATION)](https://github.com/nathan-abela/HackerRank-Solutions/archive/master.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/aKn8194/myHackerRank)](https://github.com/aKn8194/myHackerRank/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/aKn8194/myHackerRank)](https://github.com/aKn8194/myHackerRank/archive/master.zip)
 
 ## Personal profile 
-[View Hacker Rank profile](https://www.hackerrank.com/dashboard)
+[View Hacker Rank profile](https://www.hackerrank.com/knguyanh8194)
 
