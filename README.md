@@ -21,9 +21,14 @@ This repository consists of my personal solutions, experience from HackerRank tr
 
 ## Table Of Contents
 
-## Practices Completed
+## Practices
+* [Python](#python)
+* [Regex](#regex)
+* [SQL](#sql)
 
 ## Table Of Contents
+
+
 
 <p align="center">
     <a href="https://www.hackerrank.com/nathanabela7">
