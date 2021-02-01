@@ -18,7 +18,7 @@ This repository consists of my personal solutions, experience from HackerRank tr
 ![SQL](/Badges/sql_5_star.png)
 
 ## HackerRank Certificates
-
+Working on progress 
 
 ## Table Of Contents
 
